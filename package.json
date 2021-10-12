@@ -1,0 +1,24 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Projeto utilizando a linguagem JavaScript para criação de uma APP de armazenamento de notas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiTavaresV/Note-APP.git"
+  },
+  "author": "Gabriela Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabiTavaresV/Note-APP/issues"
+  },
+  "homepage": "https://github.com/GabiTavaresV/Note-APP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
